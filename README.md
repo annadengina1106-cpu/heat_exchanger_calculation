@@ -32,7 +32,7 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш_логин/heat_exchanger_calculation.git
+   git clone https://github.com/annadengina1106-cpu/heat_exchanger_calculation.git
    ```
 
 2. Установите библиотеку Pillow:
