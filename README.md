@@ -85,8 +85,8 @@ heat_exchanger_calculation/
 **Анна Деньгина**
 Химик-технолог, аналитик данных (в процессе обучения)
 
-- GitHub: [ваш_логин](https://github.com/ваш_логин)
-- Email: ваш_email@example.com
+- GitHub: [(https://github.com/annadengina1106-cpu)]
+- Email: anyahtml@yandex.ru
 
 ---
 
